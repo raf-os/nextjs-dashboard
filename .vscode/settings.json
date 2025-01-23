@@ -1,3 +1,21 @@
 {
-    "typescript.tsdk": "node_modules/typescript/lib"
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "folder-color.pathColors": [
+        {
+            "folderPath": "nextjs-dashboard/app/ui/",
+            "color": "foldercolorizer.color_6666ff"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/lib/",
+            "color": "foldercolorizer.color_cccc66"
+        },
+        {
+            "folderPath": "nextjs-dashboard/public/",
+            "color": "foldercolorizer.color_33ffff"
+        },
+        {
+            "folderPath": "nextjs-dashboard/app/dashboard/",
+            "color": "foldercolorizer.color_cc66ff"
+        }
+    ]
 }
